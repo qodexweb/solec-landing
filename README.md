@@ -1,1 +1,1 @@
-# solec-landing
+# cyzle-landing
